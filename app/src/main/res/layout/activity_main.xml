@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    >
+
+    <FrameLayout
+        android:id="@+id/framelayout_main"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1">
+
+    </FrameLayout>
+
+    <View style="@style/horizontal_line" />
+
+    <RadioGroup
+        android:id="@+id/radiogroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_homepage"
+            style="@style/radiobutton_main"
+            android:button="@null"
+            android:drawablePadding="3dp"
+            android:padding="3dp"
+            android:text="@string/radiobutton_home_page"
+            android:drawableTop="@mipmap/homepage_normal"
+            android:textColor="@drawable/color_radiobutton"
+            android:textSize="14sp" />
+
+        <RadioButton
+            android:id="@+id/rb_order"
+            style="@style/radiobutton_main"
+            android:drawablePadding="3dp"
+            android:padding="3dp"
+            android:text="@string/radiobutton_order"
+            android:drawableTop="@mipmap/order_normal"
+            android:textColor="@drawable/color_radiobutton"
+            android:textSize="14sp" />
+
+        <RadioButton
+            android:id="@+id/rb_set"
+            style="@style/radiobutton_main"
+            android:drawablePadding="3dp"
+            android:padding="3dp"
+            android:text="@string/radiobutton_set"
+            android:textColor="@drawable/color_radiobutton"
+            android:drawableTop="@mipmap/mine_normal"
+            android:textSize="14sp" />
+
+
+    </RadioGroup>
+
+</LinearLayout>

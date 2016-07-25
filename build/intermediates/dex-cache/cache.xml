@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Tools/Android-SDK/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/bdx109/BdxProj/W65/WDPMS/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-05d52a6151a16ce9eef30ede0140e4ea38914cad.jar" />
+    </item>
+    <item
+        jar="/Users/bdx109/BdxProj/W65/WDPMS/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/bdx109/BdxProj/W65/WDPMS/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-c11fc81f5de06e745e5245936d932ec76e1a9e43.jar" />
+    </item>
+    <item
+        jar="/Users/bdx109/BdxProj/W65/WDPMS/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/bdx109/BdxProj/W65/WDPMS/app/build/intermediates/pre-dexed/debug/classes-43480cf3002a445a54c5b528375519d2433e23d0.jar" />
+    </item>
+    <item
+        jar="/Users/bdx109/BdxProj/W65/WDPMS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/bdx109/BdxProj/W65/WDPMS/app/build/intermediates/pre-dexed/debug/classes-9f3727f474f74cf568081d984dc901379d2191d1.jar" />
+    </item>
+    <item
+        jar="/Users/bdx109/BdxProj/W65/WDPMS/app/build/intermediates/exploded-aar/fr.avianey.com.viewpagerindicator/library/2.4.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bae64da9140d1e78edb6f28a1b4c8831aac4ab88">
+        <dex dex="/Users/bdx109/BdxProj/W65/WDPMS/app/build/intermediates/pre-dexed/debug/classes-a3abb3d86535836e4d86009d3113aa88bbbff1cc.jar" />
+    </item>
+    <item
+        jar="/Users/bdx109/BdxProj/W65/WDPMS/app/libs/autobahn.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f0aa5c9214e17c4fbc87b22314cd68c518cb58d0">
+        <dex dex="/Users/bdx109/BdxProj/W65/WDPMS/app/build/intermediates/pre-dexed/debug/autobahn-48053f939cc9cf97e52bcb4880ffa80e490f215d.jar" />
+    </item>
+
+</items>
